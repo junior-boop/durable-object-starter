@@ -10,7 +10,7 @@
 	"migrations": [
 		{
 			"new_sqlite_classes": [
-				"nuvel_database"
+				"NotesObject"
 			],
 			"tag": "v1"
 		}
