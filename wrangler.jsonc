@@ -25,7 +25,7 @@
 	"durable_objects": {
 		"bindings": [
 			{
-				"class_name": "MyDurableObject",
+				"class_name": "NotesObject",
 				"name": "MY_DURABLE_OBJECT"
 			}
 		]
