@@ -10,7 +10,7 @@
 	"migrations": [
 		{
 			"new_sqlite_classes": [
-				"MyDurableObject"
+				"nuvel_database"
 			],
 			"tag": "v1"
 		}
